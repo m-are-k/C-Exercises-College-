@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730754333 source:c:\users\s_mar\desktop\gfg cpp\c\c-exercises-college-\quadratic_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
